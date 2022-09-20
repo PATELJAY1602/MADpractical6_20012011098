@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SEM-V/MAD/MADpractical6_20012011098/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/SEM-V/MAD/MADpractical6_20012011098/app/src/main/res/layout/activity_youtube.xml" value="0.1" />
+        <entry key="..\:/SEM-V/MAD/MADpractical6_20012011098/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.146" />
+        <entry key="..\:/SEM-V/MAD/MADpractical6_20012011098/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/SEM-V/MAD/MADpractical6_20012011098/app/src/main/res/layout/activity_youtube.xml" value="0.2" />
       </map>
     </option>
   </component>
